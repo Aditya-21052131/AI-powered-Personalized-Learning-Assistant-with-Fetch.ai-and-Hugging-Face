@@ -2,6 +2,8 @@
 The project aims to develop a personalized learning assistant that uses Fetch.ai's AI Agent technology and Hugging Face models to provide a dynamic and engaging learning experience.
 
 Here's how it would work:
+
+
 1.User Profile and learning style:
 ->The system content a user profile based on a student's learning style,perferred content formats adnd academics strengths and weaknessess gathered through questionnaries and AI interactions.
 
@@ -31,8 +33,12 @@ Here's how it would work:
     # Accessibility
     
 Here are some ways to expand on it:
+
+
 i. Integrate gamification elements to reward progress and make learning more fun.
+
 ii. Allow peer-to-peer learning by connecting students with similar learning 
     styles or areas of expertise.
+
 iii.Utilize sentiment analysis models from Hugging Face to gauge student's 
     emotional state and adjust teaching methods accordingly.
